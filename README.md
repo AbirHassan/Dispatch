@@ -46,10 +46,11 @@ flask run
 ```
 
 ### Another way to run
+```
 Navigate to /"Dispatch App"/
 set environment variables DB_PASS and DB_PORT
-run with command "python3 main.py"
-
+python3 main.py
+```
 
 ### port numbers
 3306 for Windows, 8889 for MacOS
