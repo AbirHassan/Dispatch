@@ -45,7 +45,7 @@ set DB_PORT=3306
 flask run
 ```
 
-#Another way to run
+###Another way to run
 Navigate to /"Dispatch App"/
 set environment variables DB_PASS and DB_PORT
 run with command "python3 main.py"
